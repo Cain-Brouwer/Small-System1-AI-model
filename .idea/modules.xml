@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/coverage-plugins.iml" filepath="$PROJECT_DIR$/.idea/coverage-plugins.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pythonproject.iml" filepath="$PROJECT_DIR$/.idea/pythonproject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/testbackend.iml" filepath="$PROJECT_DIR$/.idea/testbackend.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/torch.iml" filepath="$PROJECT_DIR$/.idea/torch.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/torch_openreg.iml" filepath="$PROJECT_DIR$/.idea/torch_openreg.iml" />
     </modules>
   </component>
 </project>
